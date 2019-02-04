@@ -7,3 +7,5 @@ Example:
 ```$xslt
 /oa play Mindgamesnl https://soundcloud.com/niajayne/nikisha-reyes-pile-so-cold
 ```
+
+(only for 5.0 and up)
