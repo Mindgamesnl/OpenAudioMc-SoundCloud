@@ -1,0 +1,8 @@
+name: OpenAudioMc-SoundCloud
+version: ${project.version}
+main: com.craftmend.oam.soundcloud.SoundCloud
+api-version: 1.13
+depend: [OpenAudioMc]
+authors: [Mindgamesnl]
+description: A SoundCloud support addon for OpenAudioMc
+website: https://craftmend.com
